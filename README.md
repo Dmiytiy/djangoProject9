@@ -50,7 +50,7 @@
 + **LessonSerializer** Сериализует экземпляры модели Урока.
 + **ViewingHistorySerializer** Сериализует экземпляры модели Истории Просмотров.
 
-<u> Views.py </u> ***
+<u>Views.py</u> 
 + **UserCreateView:** ___ListCreateAPIView___ для экземпляров модели Пользователя, позволяет отправлять GET и POST запросы.
 + **ProductCreateView:** ___ListCreateAPIView___ для экземпляров модели Продукта, позволяет отправлять GET и POST запросы.
 + **ProductAccessCreateView:** ___ListCreateAPIView___ для экземпляров модели Доступа к Продукту, позволяет отправлять GET и POST запросы.

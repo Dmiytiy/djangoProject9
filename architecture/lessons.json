@@ -1,0 +1,51 @@
+[
+        {
+            "id": 1,
+            "title": "ttttt",
+            "video_url": "https://proproprogs.ru/django/drf-ustanovka-django-rest-framework",
+            "duration_seconds": 60,
+            "products": []
+        },
+        {
+            "id": 2,
+            "title": "sss",
+            "video_url": "https://proproprogs.ru/django/drf-ustanovka-django-rest-framework",
+            "duration_seconds": 90,
+            "products": []
+        },
+        {
+            "id": 3,
+            "title": "Example Lesson",
+            "video_url": "https://www.example.com/video",
+            "duration_seconds": 600,
+            "products": [
+                1
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Example Lesson2",
+            "video_url": "https://www.example.com/photo",
+            "duration_seconds": 100,
+            "products": [
+                2
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Example Lesson3",
+            "video_url": "https://www.example.com/phone",
+            "duration_seconds": 1000,
+            "products": [
+                3
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Example Lesson3",
+            "video_url": "https://www.example.com/Json",
+            "duration_seconds": 1,
+            "products": [
+                4
+            ]
+        }]

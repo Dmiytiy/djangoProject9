@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "view_time": 480,
+    "status": "П",
+    "user": 1,
+    "lesson": 1
+  },
+  {
+    "id": 2,
+    "view_time": 4800,
+    "status": "П",
+    "user": 2,
+    "lesson": 2
+  },
+  {
+    "id": 3,
+    "view_time": 400,
+    "status": "П",
+    "user": 2,
+    "lesson": 2
+  },
+  {
+    "id": 4,
+    "view_time": 100,
+    "status": "Н",
+    "user": 3,
+    "lesson": 3
+  },
+  {
+    "id": 5,
+    "view_time": 1000,
+    "status": "П",
+    "user": 1,
+    "lesson": 3
+  },
+  {
+    "id": 6,
+    "view_time": 10,
+    "status": "Н",
+    "user": 4,
+    "lesson": 1
+  }
+]

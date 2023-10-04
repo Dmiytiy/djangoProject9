@@ -1,0 +1,36 @@
+[
+{
+    "id": 1,
+    "name": "Example Product",
+    "owner": 1
+},
+{
+    "id": 2,
+    "name": "рыба",
+    "owner": 1
+},
+{
+    "id": 3,
+    "name": "мясо",
+    "owner": 1
+},
+{
+    "id": 4,
+    "name": "хлеб",
+    "owner": 2
+},
+{
+    "id": 5,
+    "name": "быть",
+    "owner": 2
+},
+{
+    "id": 6,
+    "name": "у",
+    "owner": 2
+},
+{
+    "id": 7,
+    "name": "у",
+    "owner": 4
+}]
